@@ -1,13 +1,5 @@
-# BrickPlus
+# frontui-icon
 
 ## 简介
 
-BrickPlus 是部分基于 Bootstarp 框架的FrontUI团队的项目UI
-
-## 快速开始
-
-    gulp
-
-## 发布
-
-    gulp svn
+基于 icomoon.io格式 的 frontui 项目图标库 
