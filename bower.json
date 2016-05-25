@@ -1,0 +1,24 @@
+{
+  "name": "frontui-icon",
+  "homepage": "https://github.com/frontui/frontui-icon",
+  "authors": [
+    "tomieric <tomieric@gmail.com>"
+  ],
+  "description": "icon font for frontui",
+  "main": "",
+  "keywords": [
+    "frontui",
+    "iconfont"
+  ],
+  "license": "MIT",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests",
+    "*.json",
+    "fonticon/demo-files/**/**"
+  ]
+}
