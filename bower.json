@@ -17,7 +17,6 @@
     "bower_components",
     "test",
     "tests",
-    "*.json",
-    "fonticon/demo-files/**/**"
+    "*.json"
   ]
 }
