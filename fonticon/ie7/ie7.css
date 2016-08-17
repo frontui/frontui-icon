@@ -1,3 +1,48 @@
+.icon-phone2 {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe92d;');
+}
+.icon-edit2 {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe92b;');
+}
+.icon-paperclip {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe02d;');
+}
+.icon-lightbulb {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe030;');
+}
+.icon-layers {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe031;');
+}
+.icon-profile-male {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe040;');
+}
+.icon-profile-female {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe041;');
+}
+.icon-map-pin {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe047;');
+}
+.icon-upload {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe04c;');
+}
+.icon-download {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe04d;');
+}
+.icon-refresh {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe05a;');
+}
+.icon-file {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe91c;');
+}
+.icon-file2 {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe91d;');
+}
+.icon-hourglass {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe916;');
+}
+.icon-camera2 {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe90f;');
+}
 .icon-A0000102 {
   *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe928;');
 }
@@ -255,48 +300,6 @@
 }
 .icon-hour-glass {
   *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe979;');
-}
-.icon-edit2 {
-  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe92b;');
-}
-.icon-paperclip {
-  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe02d;');
-}
-.icon-lightbulb {
-  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe030;');
-}
-.icon-layers {
-  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe031;');
-}
-.icon-profile-male {
-  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe040;');
-}
-.icon-profile-female {
-  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe041;');
-}
-.icon-map-pin {
-  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe047;');
-}
-.icon-upload {
-  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe04c;');
-}
-.icon-download {
-  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe04d;');
-}
-.icon-refresh {
-  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe05a;');
-}
-.icon-file {
-  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe91c;');
-}
-.icon-file2 {
-  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe91d;');
-}
-.icon-hourglass {
-  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe916;');
-}
-.icon-camera2 {
-  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe90f;');
 }
 .icon-write {
   *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe92c;');

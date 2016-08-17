@@ -1,10 +1,10 @@
 @font-face {
   font-family: 'fonticon';
-  src:  url('fonts/fonticon.eot?rwegeb');
-  src:  url('fonts/fonticon.eot?rwegeb#iefix') format('embedded-opentype'),
-    url('fonts/fonticon.ttf?rwegeb') format('truetype'),
-    url('fonts/fonticon.woff?rwegeb') format('woff'),
-    url('fonts/fonticon.svg?rwegeb#fonticon') format('svg');
+  src:  url('fonts/fonticon.eot?gs69p');
+  src:  url('fonts/fonticon.eot?gs69p#iefix') format('embedded-opentype'),
+    url('fonts/fonticon.ttf?gs69p') format('truetype'),
+    url('fonts/fonticon.woff?gs69p') format('woff'),
+    url('fonts/fonticon.svg?gs69p#fonticon') format('svg');
   font-weight: normal;
   font-style: normal;
 }
@@ -24,6 +24,51 @@
   -moz-osx-font-smoothing: grayscale;
 }
 
+.icon-phone2:before {
+  content: "\e92d";
+}
+.icon-edit2:before {
+  content: "\e92b";
+}
+.icon-paperclip:before {
+  content: "\e02d";
+}
+.icon-lightbulb:before {
+  content: "\e030";
+}
+.icon-layers:before {
+  content: "\e031";
+}
+.icon-profile-male:before {
+  content: "\e040";
+}
+.icon-profile-female:before {
+  content: "\e041";
+}
+.icon-map-pin:before {
+  content: "\e047";
+}
+.icon-upload:before {
+  content: "\e04c";
+}
+.icon-download:before {
+  content: "\e04d";
+}
+.icon-refresh:before {
+  content: "\e05a";
+}
+.icon-file:before {
+  content: "\e91c";
+}
+.icon-file2:before {
+  content: "\e91d";
+}
+.icon-hourglass:before {
+  content: "\e916";
+}
+.icon-camera2:before {
+  content: "\e90f";
+}
 .icon-A0000102:before {
   content: "\e928";
 }
@@ -281,48 +326,6 @@
 }
 .icon-hour-glass:before {
   content: "\e979";
-}
-.icon-edit2:before {
-  content: "\e92b";
-}
-.icon-paperclip:before {
-  content: "\e02d";
-}
-.icon-lightbulb:before {
-  content: "\e030";
-}
-.icon-layers:before {
-  content: "\e031";
-}
-.icon-profile-male:before {
-  content: "\e040";
-}
-.icon-profile-female:before {
-  content: "\e041";
-}
-.icon-map-pin:before {
-  content: "\e047";
-}
-.icon-upload:before {
-  content: "\e04c";
-}
-.icon-download:before {
-  content: "\e04d";
-}
-.icon-refresh:before {
-  content: "\e05a";
-}
-.icon-file:before {
-  content: "\e91c";
-}
-.icon-file2:before {
-  content: "\e91d";
-}
-.icon-hourglass:before {
-  content: "\e916";
-}
-.icon-camera2:before {
-  content: "\e90f";
 }
 .icon-write:before {
   content: "\e92c";
