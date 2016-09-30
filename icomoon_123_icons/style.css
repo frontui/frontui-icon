@@ -1,0 +1,96 @@
+.icon {
+  display: inline-block;
+  width: 1em;
+  height: 1em;
+  stroke-width: 0;
+  stroke: currentColor;
+  fill: currentColor;
+}
+
+/* ==========================================
+Single-colored icons can be modified like so:
+.icon-name {
+  font-size: 32px;
+  color: red;
+}
+========================================== */
+
+.icon-paperclip {
+  width: 1.0625em;
+}
+
+.icon-lightbulb {
+  width: 0.6875em;
+}
+
+.icon-profile-male {
+  width: 1.125em;
+}
+
+.icon-profile-female {
+  width: 1.125em;
+}
+
+.icon-map-pin {
+  width: 0.75em;
+}
+
+.icon-upload {
+  width: 1.3125em;
+}
+
+.icon-download {
+  width: 1.3125em;
+}
+
+.icon-A0000102 {
+  width: 0.984375em;
+}
+
+.icon-arrow-small-down {
+  width: 0.375em;
+}
+
+.icon-arrow-small-left {
+  width: 0.375em;
+}
+
+.icon-arrow-small-right {
+  width: 0.375em;
+}
+
+.icon-arrow-small-up {
+  width: 0.375em;
+}
+
+.icon-triangle-down {
+  width: 0.7490234375em;
+}
+
+.icon-triangle-left {
+  width: 0.3740234375em;
+}
+
+.icon-triangle-right {
+  width: 0.3740234375em;
+}
+
+.icon-triangle-up {
+  width: 0.7490234375em;
+}
+
+.icon-codepen {
+  width: 1.0000000298023223em;
+}
+
+.icon-phone {
+  width: 0.7138671875em;
+}
+
+.icon-uniE912 {
+  width: 0.70703125em;
+}
+
+.icon-cloud-upload {
+  width: 1.0714285423358234em;
+}
