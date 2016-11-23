@@ -1,10 +1,10 @@
 @font-face {
   font-family: 'fonticon';
-  src:  url('fonts/fonticon.eot?peafcw');
-  src:  url('fonts/fonticon.eot?peafcw#iefix') format('embedded-opentype'),
-    url('fonts/fonticon.ttf?peafcw') format('truetype'),
-    url('fonts/fonticon.woff?peafcw') format('woff'),
-    url('fonts/fonticon.svg?peafcw#fonticon') format('svg');
+  src:  url('fonts/fonticon.eot?ryhvj8');
+  src:  url('fonts/fonticon.eot?ryhvj8#iefix') format('embedded-opentype'),
+    url('fonts/fonticon.ttf?ryhvj8') format('truetype'),
+    url('fonts/fonticon.woff?ryhvj8') format('woff'),
+    url('fonts/fonticon.svg?ryhvj8#fonticon') format('svg');
   font-weight: normal;
   font-style: normal;
 }
@@ -24,6 +24,9 @@
   -moz-osx-font-smoothing: grayscale;
 }
 
+.icon-vpn_key:before {
+  content: "\e0da";
+}
 .icon-free_breakfast:before {
   content: "\eb44";
 }
